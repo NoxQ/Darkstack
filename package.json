@@ -1,0 +1,44 @@
+{
+  "name": "darkstack",
+  "displayName": "Darkstack",
+  "description": "A collection of my own dark VSCode themes",
+  "publisher": "Noqs",
+  "version": "0.0.1",
+  "license": "MIT",
+	"repository": {
+		"url": "https://github.com/NoxQ/Darkstack"
+	},
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "color-themes",
+    "minimal",
+    "aesthetic",
+    "dark",
+    "neon",
+    "cyberpunk"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Edgerunner (Darkstack)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/edgerunner.json"
+      },
+      {
+        "label": "Cyberblue (Darkstack)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyberblue.json"
+      },
+      {
+        "label": "Code Crimson (Darkstack)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code-crimson.json"
+      }
+    ]
+  }
+}
