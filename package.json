@@ -3,7 +3,7 @@
   "displayName": "Darkstack",
   "description": "A collection of my own dark VSCode themes",
   "publisher": "Noqs",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "icon": "assets/darkstack.png",
   "repository": {
