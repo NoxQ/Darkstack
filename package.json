@@ -3,12 +3,12 @@
   "displayName": "Darkstack",
   "description": "A collection of my own dark VSCode themes",
   "publisher": "Noqs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "license": "MIT",
   "icon": "assets/darkstack.png",
-	"repository": {
-		"url": "https://github.com/NoxQ/Darkstack"
-	},
+  "repository": {
+    "url": "https://github.com/NoxQ/Darkstack"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
