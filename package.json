@@ -5,6 +5,7 @@
   "publisher": "Noqs",
   "version": "0.0.1",
   "license": "MIT",
+  "icon": "assets/darkstack.png",
 	"repository": {
 		"url": "https://github.com/NoxQ/Darkstack"
 	},
