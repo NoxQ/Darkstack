@@ -36,9 +36,9 @@
         "path": "./themes/cyberblue.json"
       },
       {
-        "label": "Code Crimson (Darkstack)",
+        "label": "Code Red (Darkstack)",
         "uiTheme": "vs-dark",
-        "path": "./themes/code-crimson.json"
+        "path": "./themes/code-red.json"
       }
     ]
   }
