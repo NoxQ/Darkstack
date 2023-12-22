@@ -1,4 +1,4 @@
-![Darkstack Banner](https://raw.githubusercontent.com/NoxQ/Darkstack/main/assets/Darkstack_logo_fullsize.png)
+<div align="center"><img  src="https://raw.githubusercontent.com/NoxQ/Darkstack/main/assets/Darkstack_logo_fullsize.png" width="500" height="500"/> </div>
 
 
 <div align="center"><h1>Darkstack - a collection of dark themes for VSCode</h1></div>
@@ -7,7 +7,7 @@ These are a part of the themes I have made for myself. I created Darkstack becau
  &nbsp;
  &nbsp;
 
-**Table of content:**  
+**Table of contents:**  
   - [Installing and choosing a theme](#item-one) 
   - [Examples](#item-two) 
 
