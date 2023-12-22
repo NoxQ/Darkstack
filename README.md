@@ -1,4 +1,4 @@
-<div align="center"><img  src="https://raw.githubusercontent.com/NoxQ/Darkstack/main/assets/Darkstack_logo_fullsize.png" width="500" height="500"/> </div>
+<div align="center"><img  src="https://raw.githubusercontent.com/NoxQ/Darkstack/main/assets/Darkstack_logo_fullsize.png" width="300" height="300"/> </div>
 
 
 <div align="center"><h1>Darkstack - a collection of dark themes for VSCode</h1></div>
