@@ -17,7 +17,7 @@ These are a part of the themes I have made for myself. I created Darkstack becau
 ## Installing and Choosing a Theme
 1. Search and install "Darkstack" in the VSCode extensions tab.
 2. Open the command tab (``Ctrl+Shift+P``)  -> enter ``Preferences: Color Theme`` -> select desired theme.
- 2.1 If you have a lot of themes installed type ``Darkstack`` to filter for Darkstack themes only.
+   - If you have a lot of themes installed type ``Darkstack`` to filter for Darkstack themes only.
 
 <a id="item-two" />
 
