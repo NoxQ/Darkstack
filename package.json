@@ -31,6 +31,11 @@
         "path": "./themes/edgerunner.json"
       },
       {
+        "label": "Miami Vice (Darkstack)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/miami-vice.json"
+      },
+      {
         "label": "Cyberblue (Darkstack)",
         "uiTheme": "vs-dark",
         "path": "./themes/cyberblue.json"
