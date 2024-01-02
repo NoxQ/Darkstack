@@ -38,4 +38,10 @@ These are a part of the themes I have made for myself. I created Darkstack becau
 ![Code Redtheme screenshot](https://raw.githubusercontent.com/NoxQ/Darkstack/main/assets/cyberblue_example.png)
 
 ---
+<div align="center"><h3>Miami Vice</h1></div>
+
+![Code Redtheme screenshot](https://raw.githubusercontent.com/NoxQ/Darkstack/main/assets/miamivice_example.png)
+
+---
+
 Maybe more coming later. 
